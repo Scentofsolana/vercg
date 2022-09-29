@@ -29,10 +29,10 @@ export const light = {
 
 Home Section👇
 
-Discover A New Era Of Cool
+Discover A New Scent of Solana
 NFTs.
 Collectible items.
-Ape Killers!
+New Scents!
 
 
 About Section👇
