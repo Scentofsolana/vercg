@@ -22,7 +22,7 @@ function App() {
         <About />
         <Roadmap />
         <Showcase />
-        <Team />
+        <Koma />
         <Faq />
         <Footer />
         <ScrollToTop />
